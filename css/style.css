@@ -1,0 +1,29 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Fugaz+One&family=Lora&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("components/btn-white.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 24px
+}
+
+h1 {
+	font-family: 'Fugaz', sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: white ;
+}
+

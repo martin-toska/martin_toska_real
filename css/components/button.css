@@ -1,0 +1,14 @@
+.btn-black {
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 25px;
+	color: black;
+	font-family: 'Fugaz', sans-serif;
+	opacity: 0.7;
+	transition: 0.3s;
+}
+
+
+.btn-black:hover {
+	opacity: 1
+}
